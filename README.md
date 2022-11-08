@@ -10,4 +10,4 @@ This is a functional testing especially on UI for a payment gateway called Midtr
 
 ## Deploying Test
 To run this test case as a suite:
-* Go to >Test Suites folder and click >Run 
+* Go to > Test Suites folder then select desired test will be deployed and click > Run 

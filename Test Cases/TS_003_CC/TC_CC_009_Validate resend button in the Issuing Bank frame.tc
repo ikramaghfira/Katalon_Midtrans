@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_009_Validate resend button in the Issuing Bank frame</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eebe90af-600c-43a4-9c9e-01a701a17333</testCaseGuid>
+</TestCaseEntity>

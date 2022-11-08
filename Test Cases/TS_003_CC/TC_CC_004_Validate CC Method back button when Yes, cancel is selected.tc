@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_004_Validate CC Method back button when Yes, cancel is selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f6bcbb7-7906-4707-9cf1-d6c0aa72f995</testCaseGuid>
+</TestCaseEntity>

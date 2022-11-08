@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_001_Validate the scroll bar in the PAYMENT can successfully scrolling up and down</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61afe303-d60f-4184-abae-83e511a72279</testCaseGuid>
+</TestCaseEntity>

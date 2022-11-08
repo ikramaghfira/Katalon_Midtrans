@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_003_Verify Failed submission when Amount (Rp) field is filled with null value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e281d301-9ebe-4c2c-9e6b-9fcd7d2cbe10</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a36f34d-0958-4b03-80eb-f547ec675489</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100,000'</defaultValue>
+      <description></description>
+      <id>2a36f34d-0958-4b03-80eb-f547ec675489</id>
+      <masked>false</masked>
+      <name>amount_value</name>
+   </variable>
+</TestCaseEntity>

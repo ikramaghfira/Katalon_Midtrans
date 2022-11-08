@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_002_Verify succeed check out with valid detail information required in Shopping Cart and Customer Details fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83dae73c-6e14-48b3-b565-d4bbc83b2686</testCaseGuid>
+</TestCaseEntity>

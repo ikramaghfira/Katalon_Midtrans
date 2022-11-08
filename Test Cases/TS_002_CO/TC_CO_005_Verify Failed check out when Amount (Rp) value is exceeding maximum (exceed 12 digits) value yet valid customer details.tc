@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_005_Verify Failed check out when Amount (Rp) value is exceeding maximum (exceed 12 digits) value yet valid customer details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a122661e-c77a-47d4-ac8d-c3e6f13cb353</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f21e54d-a9bc-49ec-a981-c9a133edcceb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100,000'</defaultValue>
+      <description></description>
+      <id>2f21e54d-a9bc-49ec-a981-c9a133edcceb</id>
+      <masked>false</masked>
+      <name>amount_value</name>
+   </variable>
+</TestCaseEntity>

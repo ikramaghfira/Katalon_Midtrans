@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_BT_001_Validate success payment using Bank Transfer Method BCA Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>638f61a9-8456-4f85-a6e0-17dd587d9074</testCaseGuid>
+</TestCaseEntity>

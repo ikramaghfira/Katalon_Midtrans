@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_013_Verify Failed check out when Name is filled exceeding the maximum character allowed (max 255 characters) while other fields are valid value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e316e7c-2345-4c27-b353-c049257ee750</testCaseGuid>
+</TestCaseEntity>

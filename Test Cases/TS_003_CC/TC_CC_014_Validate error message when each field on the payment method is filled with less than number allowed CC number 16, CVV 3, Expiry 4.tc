@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_014_Validate error message when each field on the payment method is filled with less than number allowed CC number 16, CVV 3, Expiry 4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38e78bf4-e1a5-4e0d-990b-48cc1195f78a</testCaseGuid>
+</TestCaseEntity>

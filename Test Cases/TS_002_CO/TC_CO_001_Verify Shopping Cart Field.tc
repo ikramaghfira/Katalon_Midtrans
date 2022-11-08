@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_001_Verify Shopping Cart Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0907bd1-ecf7-4370-9c44-4ab890eb085f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4541943e-ffea-4901-a542-7addb6e189e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100,000'</defaultValue>
+      <description></description>
+      <id>4541943e-ffea-4901-a542-7addb6e189e7</id>
+      <masked>false</masked>
+      <name>amount_value</name>
+   </variable>
+</TestCaseEntity>

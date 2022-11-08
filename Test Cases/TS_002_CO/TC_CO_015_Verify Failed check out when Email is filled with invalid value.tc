@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_015_Verify Failed check out when Email is filled with invalid value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bec5f330-9299-4458-9b39-21270c8e80ce</testCaseGuid>
+</TestCaseEntity>

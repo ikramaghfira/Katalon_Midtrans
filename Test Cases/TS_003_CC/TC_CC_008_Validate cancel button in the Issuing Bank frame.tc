@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_008_Validate cancel button in the Issuing Bank frame</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a2df815-8e48-4c25-9efc-3845650f0cfa</testCaseGuid>
+</TestCaseEntity>

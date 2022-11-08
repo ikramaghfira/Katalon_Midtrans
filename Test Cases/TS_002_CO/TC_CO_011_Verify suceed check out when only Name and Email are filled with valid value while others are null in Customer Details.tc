@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_011_Verify suceed check out when only Name and Email are filled with valid value while others are null in Customer Details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62eb2f2a-ec9a-45d1-8c94-8f71abd919b0</testCaseGuid>
+</TestCaseEntity>

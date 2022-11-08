@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Mandiri-ATMMandiri</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c0feb6f5-aa78-4a7d-849f-af5be99b5d5c</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Select+pay%2Fbuy+on+the+main+menu.</data>
+   <data>Select+others.</data>
+   <data>Select+multi+payment.</data>
+   <data>Insert+company+code+70012.</data>
+   <data>Insert+virtual+account+number%2C+then+confirm.</data>
+   <data>Payment+complete.</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Deskripsi</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

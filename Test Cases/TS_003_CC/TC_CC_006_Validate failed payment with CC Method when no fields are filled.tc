@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_006_Validate failed payment with CC Method when no fields are filled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e93379da-99b9-4515-9cda-034cca29a42b</testCaseGuid>
+</TestCaseEntity>

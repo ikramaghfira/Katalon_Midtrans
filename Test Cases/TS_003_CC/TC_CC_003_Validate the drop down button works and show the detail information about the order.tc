@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_003_Validate the drop down button works and show the detail information about the order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4c8d051-b0da-45aa-b572-99c0435be382</testCaseGuid>
+</TestCaseEntity>

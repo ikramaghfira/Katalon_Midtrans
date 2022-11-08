@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_013_Validate failed payment when CC Number is inactivate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd77953b-7b3f-4b02-ab61-f921ad79af63</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Mandiri_IBanking</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>220caa91-ed27-4a39-ae02-b659578b4e04</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Select+ayment+on+the+main+menu.</data>
+   <data>Select+multi+payment.</data>
+   <data>Select+from+account.</data>
+   <data>Select+Midtrans+in+the+service+provider+form.</data>
+   <data>Insert+virtual+account+number%2C+then+confirm.</data>
+   <data>Payment+complete.</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Deskripsi</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

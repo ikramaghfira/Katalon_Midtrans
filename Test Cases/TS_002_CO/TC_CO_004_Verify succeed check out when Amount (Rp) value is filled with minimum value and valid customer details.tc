@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_004_Verify succeed check out when Amount (Rp) value is filled with minimum value and valid customer details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f403bdd7-52ea-4901-a31f-23f7cb4f65b8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e44a5b04-0e8f-4216-9ad4-2da91f184bc4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100,000'</defaultValue>
+      <description></description>
+      <id>e44a5b04-0e8f-4216-9ad4-2da91f184bc4</id>
+      <masked>false</masked>
+      <name>amount_value</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_014_Verify succeed check out when Name is filled with other character other than alphabet and space is inserted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d074d7bb-8479-4a55-b03c-403bb76b5335</testCaseGuid>
+</TestCaseEntity>

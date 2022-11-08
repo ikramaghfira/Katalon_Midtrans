@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_006_Verify succeed check out when Amount (Rp) value is filled with maximum value (12 digit) and valid customer details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f3fc66-406e-4b72-827a-1b7a6db0772b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06b7c62b-9a52-4844-9c50-fa6f9be7cfe3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100,000'</defaultValue>
+      <description></description>
+      <id>06b7c62b-9a52-4844-9c50-fa6f9be7cfe3</id>
+      <masked>false</masked>
+      <name>amount_value</name>
+   </variable>
+</TestCaseEntity>

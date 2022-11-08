@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_BT_003_Validate succeed payment using Bank Transfer Method Mandiri Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab6f457f-2139-4b98-a0d3-ec2d2c9410bb</testCaseGuid>
+</TestCaseEntity>

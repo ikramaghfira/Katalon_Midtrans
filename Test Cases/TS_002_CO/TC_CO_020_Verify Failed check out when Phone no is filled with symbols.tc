@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_020_Verify Failed check out when Phone no is filled with symbols</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffa62677-5274-4d55-9e3d-24d183e13d68</testCaseGuid>
+</TestCaseEntity>

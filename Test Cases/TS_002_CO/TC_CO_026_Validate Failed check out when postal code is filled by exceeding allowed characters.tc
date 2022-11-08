@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_026_Validate Failed check out when postal code is filled by exceeding allowed characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efdaab75-9fbd-444a-b9e4-02514229266f</testCaseGuid>
+</TestCaseEntity>

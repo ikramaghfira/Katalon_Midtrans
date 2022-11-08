@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_016_Validate radio Potongan 10 return correct amount of total value when it is chosen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c056169e-40a0-44a2-b867-5e24f2644f17</testCaseGuid>
+</TestCaseEntity>

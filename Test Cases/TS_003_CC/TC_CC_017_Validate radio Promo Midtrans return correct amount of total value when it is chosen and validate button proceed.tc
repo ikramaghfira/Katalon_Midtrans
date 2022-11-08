@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CC_017_Validate radio Promo Midtrans return correct amount of total value when it is chosen and validate button proceed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c99388c1-6f50-4b3a-8757-4b1195b8530b</testCaseGuid>
+</TestCaseEntity>

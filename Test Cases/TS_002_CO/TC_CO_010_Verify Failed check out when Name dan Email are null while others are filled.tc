@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_010_Verify Failed check out when Name dan Email are null while others are filled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f6a42e-b787-4aba-9f53-0c4c3aa211e5</testCaseGuid>
+</TestCaseEntity>

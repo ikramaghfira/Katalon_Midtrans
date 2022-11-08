@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify navigating to &quot;Check Out&quot; frame when &quot;Buy Now&quot; button is clicked</description>
+   <name>TC_BN_002_Verify navigating to CHECK OUT frame when BUY NOW button is clicked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1aafb93c-d662-4348-8f24-7e5c88e2521b</testCaseGuid>
+</TestCaseEntity>

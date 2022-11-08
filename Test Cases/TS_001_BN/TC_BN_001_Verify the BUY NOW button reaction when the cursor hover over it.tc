@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_BN_001_Verify the BUY NOW button reaction when the cursor hover over it</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7370ecb-7254-4ad1-b337-c4770cb699d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97721301-f02e-491a-8a8c-186fc4f5927c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'rgb(28 74 113 / 80%)'</defaultValue>
+      <description></description>
+      <id>97721301-f02e-491a-8a8c-186fc4f5927c</id>
+      <masked>false</masked>
+      <name>after_buynow</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CO_023_Validate Failed check out when City is filled by exceeding allowed characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3457cef1-26e1-4735-8f08-4fd7e3f1666c</testCaseGuid>
+</TestCaseEntity>
